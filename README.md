@@ -5,13 +5,10 @@ Requisitos do Formulario:
 * O programa tera os seguintes dados de pessoas que trabalham em uma
 empresa:
 
-*
-*
-
-       (a) nome;
-       (b) grau de estudo: 1, 2, 3, 4 ou 5;
-       (c) quantidade de línguas que fala;
-       (d) cargo que ocupa: 1º, 2º, 3º ou 4º nível;
+       * nome;
+       * grau de estudo: 1, 2, 3, 4 ou 5;
+       * quantidade de línguas que fala;
+        cargo que ocupa: 1º, 2º, 3º ou 4º nível;
        (e) seu índice de produtividade: entre 0 e 1,0;
        (f) 
 
