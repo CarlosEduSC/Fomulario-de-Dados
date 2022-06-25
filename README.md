@@ -1,8 +1,8 @@
-# Formulario de Dados
+# Formulário de Dados
  
 Requisitos do Formulario:
 
-* O programa tera os seguintes dados de pessoas que trabalham em uma
+O programa tera os seguintes dados de pessoas que trabalham em uma
 empresa:
 
        * Nome;
@@ -16,4 +16,4 @@ Baseado nisto, o programa atende aos seguintes requisitos:
        
        * Cadastro de funcionários;
        * Cálculo de salário de um determinado funcionário;
-       * 
+       * Editar e visualizar as informações de um funcionario.
